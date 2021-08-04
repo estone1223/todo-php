@@ -1,0 +1,9 @@
+aaa	with Power-Point	08/05	9	9	green
+bbb	with Power-Point	08/05	8	8	orange
+ccc	with Power-Point	08/05	7	7	purple
+ddd	with Power-Point	08/05	6	6	green
+eee	with Power-Point	08/05	5	5	blue
+fff	with Power-Point	08/05	4	4	orange
+ggg	with Power-Point	08/05	3	3	purple
+hhh	with Power-Point	08/05	2	2	blue
+iii	with Power-Point	08/05	1	1	orange

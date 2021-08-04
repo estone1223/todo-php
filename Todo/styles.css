@@ -1,0 +1,81 @@
+
+main {
+  width: 480px;
+  margin: 32px auto;
+}
+
+header {
+  margin-bottom: 24px;
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+  margin: 0 16px;
+}
+
+select {
+  font-size: 16px;
+}
+
+input[type="text"] {
+  font-size: 16px;
+  width: 100%;
+  padding: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.comment {
+  float: right;
+}
+
+.todos {
+  margin-top: 2px;
+}
+
+.todo {
+  padding-left: 8px;
+  line-height: 2.2;
+  margin-bottom: 2px;
+}
+
+.todo:hover {
+  opacity: 0.5;
+}
+
+input[name="delete"] {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  color: white;
+}
+
+input[name="delete"]:hover {
+  cursor: pointer;
+}
+
+.blue {
+  background-color: rgba(132, 163, 223, 0.8);
+}
+
+.green {
+  background-color: rgba(133, 214, 173, 0.8);
+}
+
+.purple {
+  background-color: rgba(181, 139, 216, 0.8);
+}
+
+.orange {
+  background-color: rgba(243, 190, 169, 0.8);
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    margin: 0 12px;
+  }
+  main {
+    width: auto;
+  }
+}
